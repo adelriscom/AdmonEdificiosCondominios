@@ -15,3 +15,6 @@ las facturas generadas, de los pagos y deudas, de los propietarios (inquilinos d
 certificado de estar al día en las administraciones 
 debe haber como firmar digitalmente por el administrador
 Generar correos de recordatorio de pagos y correos generales
+
+Administración de parqueaderos (tener en cuenta donde sea con rotación), alquiler y reserva de zonas comunes y espacios deportivos.
+Módulo de atención al cliente para estimar el servicio del administrador, pero este debe administrado por el consejo.
