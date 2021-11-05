@@ -19,3 +19,13 @@
 1. opció para firmar digitalmente por el administrador.
 1. Generar correos de recordatorio de pagos y correos generales.
 
+## Roles del equipo
+| Rol |Persona  |
+|--|--|
+| Scrum Master | Alexander Del Risco Morales|
+| Team | Horacio Silva Porras|
+| Team | Félix Stevens Castro Perez|
+| Team | Jackeline Ariza Barajas|
+| Team | Ayda Fabiola Hernandez Fajardo|
+| Team | Juan Carlos Jerez Morales|
+
